@@ -1,8 +1,6 @@
 import type { Metadata } from "next";
-import localFont from "next/font/local";
 import "./globals.css";
-import Link from "next/link";
-import { Inter,ABeeZee,ADLaM_Display,Comforter } from 'next/font/google'
+import { Comforter } from 'next/font/google'
 
 // const geistSans = localFont({
 //   src: "./fonts/GeistVF.woff",
